@@ -1,0 +1,36 @@
+.quote {
+  font-family: 'Inconsolata', monospace;
+  color: #f1d62a;
+  font-style: italic;
+  background-color: hsl(258deg 100% 3%);
+  padding: 2em;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.5rem;
+}
+
+.bg-image-1 {
+  background-image: url('./assets/bg1-updated.jpg');
+}
+
+.bg-image-2 {
+  background-image: url('./assets/bg2-updated.jpg');
+}
+
+.bg-image-3 {
+  background-image: url('./assets/bg3-updated.jpg');
+}
+
+.bg-image-4 {
+  background-image: url('./assets/bg4-updated.jpg');
+}
+
+.parallax {
+  height: 1080px;
+  min-height: 540px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
